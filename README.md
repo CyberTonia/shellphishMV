@@ -36,7 +36,7 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 <i style= size:10px;>Note: If the link hasn't generated in program then open separate session for that . And type :
   
   ```
-  ngrok http 80 <p>(If you need another port then replace port 80 with that one)</p>.
+  ngrok http 80 (If you need another port then replace port 80 with that one).
   ```
  
     
