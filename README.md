@@ -15,7 +15,7 @@
 
 Usage of Shellphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
-![shellp]()
+![shellphishMV](https://drive.google.com/uc?export=view&id=1JfeCw8ukW0b2jONaRYXj0Rl34e-h1pL7)
 
 ## This Tool Tested On :
 <ul>
@@ -36,7 +36,7 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 <i style= size:10px;>Note: If the link hasn't generated in program then open separate session for that . And type :
   
   ```
-  ngrok http 80 (If you need another port then replace port 80 with that one.
+  ngrok http 80 <p>(If you need another port then replace port 80 with that one)</p>.
   ```
  
     
@@ -55,8 +55,9 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 
 ```
 
-```
+### Video Demo:
+
 [![How to control android camera](https://img.youtube.com/vi/0JoeMyT9K_k/0.jpg)](https://www.youtube.com/watch?v="id")
 #### For More Video subcribe <a href="http://youtube.com/Muqeevirus">MuqeeVirus YouTube Channel</a>
 <p>ShellphishMV is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
-```
+
