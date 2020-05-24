@@ -23,7 +23,6 @@ apt install php
 apt install git
 git clone https://github.com/GeAr368/shellphishMV
 cd shellphish
-chmod +x shellphish.sh
 bash shellphish.sh
 ```
 
