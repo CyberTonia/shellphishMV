@@ -57,7 +57,7 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 
 ### Video Demo:
 
-[![How to Use This Tool](https://img.youtube.com/vi/pV7CNvzquos/0.jpg)](https://www.youtube.com/watch?v="pV7CNvzquos")
-#### For More Video subcribe <a href="http://youtube.com/Muqeevirus">MuqeeVirus YouTube Channel</a>
+[![How to Use This Tool](https://img.youtube.com/vi/nOshMksNpzc/0.jpg)](https://youtu.be/nOshMksNpzc")
+#### For More Video subcribe <a href="https://www.youtube.com/channel/UCrey-mHhXN-Zym5koxk8azw">Techy Musa YouTube Channel</a>
 <p>ShellphishMV is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
 
