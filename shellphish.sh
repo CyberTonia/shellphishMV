@@ -144,12 +144,12 @@ printf "\e[1;77m      \ \ | || \  / _  )| || ||  ____/ | || \ | | /___)| || \  |
 printf "\e[1;77m  _____) )| | | |( (/ / | || || |      | | | || ||___ || | | | ||\\//||  \\//  \e[0m\n"
 printf "\e[1;77m (______/ |_| |_| \____)|_||_||_|      |_| |_||_|(___/ |_| |_| || \/ ||   \/   v2.0\e[0m\n"
 printf "\n"
-printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by:  Muqee Virus \e[0m\e[1;93m.:.:.\e[0m\n"
+printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by: Techy Musa \e[0m\e[1;93m.:.:.\e[0m\n"
 printf "\n"
 printf "  \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
 printf "  \e[101m\e[1;77m:: responsible for any misuse or damage caused by ShellPhish ::\e[0m\n"
 printf "\e[1;77m Please don't Forget to Subscribe The Channel Muqee Virus.\e[0m\n"
-printf "\e[1;77m www.youtube.com/muqeevirus | grmusa9797@gmail.com \e[0m\n"
+printf "\e[1;77m www.youtube.com/TechyMusa | grmusa9797@gmail.com \e[0m\n"
 printf "\n"
 }
 
